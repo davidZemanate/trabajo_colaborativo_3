@@ -1,0 +1,14 @@
+body{
+    background-color: lightseagreen;
+    color: #fff;
+
+}
+h1{
+    background-color: lightcoral;
+    color: white;
+    width: 43%;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
